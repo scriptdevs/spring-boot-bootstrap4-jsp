@@ -1,4 +1,4 @@
-# Basic Java SpringBoot
+# Basic Java SpringBoot with Java Server Pages (JSP)
 
 # Description
 This setup enables you to start right away with Java Spring Boot.
